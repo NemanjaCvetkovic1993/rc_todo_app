@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "447901185205",
+    "project_id": "todo-app-ef290",
+    "storage_bucket": "todo-app-ef290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447901185205:android:9c06d3efafd12197d37afc",
+        "android_client_info": {
+          "package_name": "com.neonrevolutionstudio.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447901185205-r09qfthb1i595gi3av1050e31hl89ods.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neonrevolutionstudio.todo_app",
+            "certificate_hash": "63069803726839fd5d08b9f3b7251d51b8367e5e"
+          }
+        },
+        {
+          "client_id": "447901185205-lgr1uka3ee9kro4b7upaqeobapo5o4ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgIXBEuxVZzxwVHaEy1__G8BEk-gdQnHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447901185205-lgr1uka3ee9kro4b7upaqeobapo5o4ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
